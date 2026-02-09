@@ -28,16 +28,21 @@ I enjoy automating workflows, optimizing system performance, and working closely
 
 ## 🛠️ Tools & Technologies
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="70" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="70" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="70" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="70" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" style="background:#fff; padding:8px; border-radius:10px;"/>
-</p>
-
+<table>
+  <tr>
+    <td align="center"><b>Linux</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/></td>
+    <td align="center"><b>Terraform</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/></td>
+    <td align="center"><b>Jenkins</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/></td>
+    <td align="center"><b>Kubernetes</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/></td>
+    <td align="center"><b>Ansible</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48"/></td>
+    <td align="center"><b>Ubuntu</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48"/></td>
+    <td align="center"><b>Git</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/></td>
+    <td align="center"><b>Docker</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/></td>
+    <td align="center"><b>GitHub</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/></td>
+    <td align="center"><b>VS Code</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/></td>
+    <td align="center"><b>AWS</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/></td>
+  </tr>
+</table>
 
 
 ---
