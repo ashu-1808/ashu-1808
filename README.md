@@ -44,6 +44,8 @@ I enjoy automating workflows, optimizing system performance, and working closely
     <td align="center"><b>GitHub</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/></td>
     <td align="center"><b>VS Code</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/></td>
     <td align="center"><b>AWS</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/></td>
+    <td align="center"><b>AWS</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60"/></td>
+
   </tr>
 </table>
 
