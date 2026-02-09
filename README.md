@@ -28,7 +28,7 @@ I enjoy automating workflows, optimizing system performance, and working closely
 
 ## 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://camo.githubusercontent.com/cf34bff7a1524df8ccb4e2f0c70edda3702a88305f98b82bcf7903591cd6b706/" width="600"/>
+  <img src="assets/devops-banner.jpg" width="800"/>
 </p>
 
 <table>
