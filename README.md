@@ -19,6 +19,11 @@ I enjoy automating workflows, optimizing system performance, and working closely
 - Passionate about automation, reliability, and continuous improvement
 
 ---
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/your-profile
+- 📧 Email:ashutoshtoradmal@gmail.com
+--- 
 
 ## 🛠️ Tools & Technologies
 
@@ -54,12 +59,8 @@ I enjoy automating workflows, optimizing system performance, and working closely
 - Basic Linux networking & troubleshooting
 
 ---
----
-## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-profile
-- 📧 Email:ashutoshtoradmal@gmail.com
----  
+ 
 
 ## 🔄 DevOps Responsibilities (Hands-On)
 
@@ -99,8 +100,6 @@ I enjoy automating workflows, optimizing system performance, and working closely
 
 ---
 
-
----
 
 ## 🚀 Career Goal
 
