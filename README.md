@@ -1,5 +1,5 @@
-**Hi ,**
-   **I'm Ashutosh Toradmal**
+**Hello ,**
+  **I'm Ashutosh Toradmal**
 
 🚀 **DevOps Engineer**  
 Linux • AWS • Docker • Kubernetes • CI/CD • Terraform  • Jenkins • Sonarqube 
