@@ -2,10 +2,10 @@
   
 
 🚀 **DevOps Engineer**  
-Linux • AWS • Docker • Kubernetes • CI/CD • Terraform  • Jenkins • Sonarqube 
+Linux | AWS | Git&Github | Docker | Kubernetes | Terraform | Anisible | Jenkins | CI/CD | Sonarqube 
 
 
-**I'm Ashutosh Toradmal**,
+I'm **Ashutosh Toradmal**,
 I am Associate DevOps Engineer with hands-on experience in building, deploying, and maintaining scalable infrastructure and CI/CD pipelines.  
 I enjoy automating workflows, optimizing system performance, and working closely with development teams to deliver reliable applications.
 
@@ -13,7 +13,7 @@ I enjoy automating workflows, optimizing system performance, and working closely
 
 ## 🧑‍💻 Professional Summary
 
-- 1 year of experience in **DevOps & Cloud Engineering**
+- Around 1 year of experience in **DevOps & Cloud Engineering**
 - Strong foundation in **Linux system administration**
 - Hands-on experience with **AWS cloud services**
 - Designed and maintained **CI/CD pipelines**
