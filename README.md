@@ -1,9 +1,7 @@
 
 
 --- 
-I'm **Ashutosh Toradmal**,
-I am Associate DevOps Engineer with hands-on experience in building, deploying, and maintaining scalable infrastructure and CI/CD pipelines.  
-I enjoy automating workflows, optimizing system performance, and working closely with development teams to deliver reliable applications.
+I’m Ashutosh Toradmal, an Associate DevOps Engineer with hands-on experience in building, deploying, and maintaining scalable infrastructure and CI/CD pipelines. I’m passionate about automating workflows, optimizing system performance, and collaborating closely with development teams to deliver reliable, high-quality applications.
 ---
 
 🚀 **DevOps Engineer**  
