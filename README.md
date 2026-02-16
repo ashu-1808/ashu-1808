@@ -1,12 +1,13 @@
 
 
---- 
+ 
 I’m Ashutosh Toradmal,
 ---
 an Associate DevOps Engineer with hands-on experience in building, deploying, and maintaining scalable infrastructure and CI/CD pipelines. I’m passionate about automating workflows, optimizing system performance, and collaborating closely with development teams to deliver reliable, high-quality applications.
 
 
-🚀 **DevOps Engineer**  
+🚀 **DevOps Engineer** 
+---
 Linux | AWS | Git&Github | Docker | Kubernetes | Terraform | Anisible | Jenkins | CI/CD | Sonarqube 
 
 ---
