@@ -107,7 +107,8 @@ Linux | AWS | Git&Github | Docker | Kubernetes | Terraform | Jenkins | CI/CD | S
 ---
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ashutosh-toradmal/
+- 💼 LinkedIn: https://www.linkedin.com/in/ashutoshtoradmal
+
 - 📧 Email:ashutoshtoradmal@gmail.com
 --- 
 
