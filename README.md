@@ -35,7 +35,6 @@ Linux | AWS | Git&Github | Docker | Kubernetes | Terraform | Anisible | Jenkins 
     <td align="center"><b>Terraform</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/></td>
     <td align="center"><b>Jenkins</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/></td>
     <td align="center"><b>Kubernetes</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/></td>
-    <td align="center"><b>Ansible</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48"/></td>
     <td align="center"><b>Ubuntu</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48"/></td>
     <td align="center"><b>Git</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/></td>
     <td align="center"><b>Docker</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/></td>
