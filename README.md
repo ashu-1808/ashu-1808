@@ -8,7 +8,7 @@ an Associate DevOps Engineer with hands-on experience in building, deploying, an
 
 🚀 **DevOps Engineer** 
 ---
-Linux | AWS | Git&Github | Docker | Kubernetes | Terraform | Anisible | Jenkins | CI/CD | Sonarqube 
+Linux | AWS | Git&Github | Docker | Kubernetes | Terraform | Jenkins | CI/CD | Sonarqube 
 
 ---
 
