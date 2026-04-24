@@ -14,7 +14,7 @@ Linux | AWS | Git&Github | Docker | Kubernetes | Terraform | Jenkins | CI/CD | S
 
 ## 🧑‍💻 Professional Summary
 
-- Around 1 year of experience in **DevOps & Cloud Engineering**
+- More than 3.5 year of experience in **DevOps & Cloud Engineering**
 - Strong foundation in **Linux system administration**
 - Hands-on experience with **AWS cloud services**
 - Designed and maintained **CI/CD pipelines**
